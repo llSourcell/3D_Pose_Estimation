@@ -1,3 +1,7 @@
+## Overview
+
+This is the code for [this](https://youtu.be/EMjPqgLX14A) video on Youtube by Siraj Raval. 
+
 ## 3d-pose-baseline
 
 This is the code for the paper
@@ -92,3 +96,7 @@ If you use our code, please cite our work
 
 ### License
 MIT
+
+## Credits
+
+Credits for this code go to [una-dinosauria](https://github.com/una-dinosauria/3d-pose-baseline). I've merely created a wrapper to get people started.
